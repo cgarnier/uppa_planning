@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">UPPA Planning</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Réglages</string>
+    <string name="menu_exit">Quiter</string>
+    <string name="title_activity_main">UPPA Planning</string>
+    <string name="title_reglages">Réglages</string>
+    <string name="title_welcome">Welcome!</string>
+    <string name="txt_welcome">Vous lancez UPPA Plannig pour la première fois. Cette application permet de visualiser votre planning directement depuis votre mobile. Cliquez continuer pour configurer l\'application.</string>
+    
+    <string name="choose">Choisissez votre promotion:</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_continue">Continuer</string>
+    <string name="promo"> Aucune promo selectionné. Menu > Réglages</string>
+    
+
+</resources>
